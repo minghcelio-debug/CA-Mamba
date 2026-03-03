@@ -13,9 +13,9 @@ We propose a curvature-aware state space modeling framework for autoregressive t
 We are committed to releasing a complete and reproducible implementation of **CA-Mamba**.
 Due to the complexity of the framework and ongoing paper review, we adopt a **phased open-source strategy**:
 
-- [] Project repository initialization
-- [] Core curvature computation and geometric statistics module
-- [] Geometry-Aware Adaptive Decoding (GAAD) implementation
+- [ ] Project repository initialization
+- [ ] Core curvature computation and geometric statistics module
+- [ ] Geometry-Aware Adaptive Decoding (GAAD) implementation
 - [ ] Full CA-Mamba model training pipeline
 - [ ] Pre-trained models for ShapeNet categories
 - [ ] End-to-end training and evaluation scripts
